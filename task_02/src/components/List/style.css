@@ -1,0 +1,16 @@
+.tableStyle {
+    width: 200px;
+    border-collapse: collapse;
+  }
+  
+  td {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid black;
+  }
+  
+  .active {
+    color: red;
+    font-weight: bold;
+  }
+  
