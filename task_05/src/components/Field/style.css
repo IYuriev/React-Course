@@ -1,0 +1,60 @@
+.field {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 10px auto;
+}
+
+.cards {
+  display: flex;
+}
+
+.card {
+  border: 2px solid black;
+  padding: 10px;
+  margin: 10px;
+  min-width: 200px;
+}
+
+.form__label--error .label__input {
+  border-color: crimson;
+  display: block;
+}
+
+.form__label {
+  display: flex;
+  flex-direction: column;
+}
+
+.label__error {
+  margin: 5px 0;
+  color: crimson;
+  font-weight: bold;
+  display: none;
+}
+
+.label__title {
+  margin: 0 0 5px;
+}
+
+.label__input {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 5px;
+}
+
+.label__error {
+  margin: 5px 0;
+  font-weight: bold;
+  color: crimson;
+}
+
+.battle__btn {
+  background-color: #9e9e9e;
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 14px;
+  letter-spacing: 0.3px;
+}

@@ -1,0 +1,14 @@
+.card__data {
+  display: flex;
+  flex-direction: column;
+}
+
+.data__image {
+  width: 200px;
+}
+
+.data__title {
+  text-align: center;
+  font-weight: bold;
+  margin: 10px 0;
+}
