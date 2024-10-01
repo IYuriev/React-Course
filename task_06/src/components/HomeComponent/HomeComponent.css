@@ -1,0 +1,7 @@
+.home-component {
+  background-color: #eeecec;
+  border-radius: 10px;
+  text-align: center;
+  padding: 20px;
+  max-width: fit-content;
+}

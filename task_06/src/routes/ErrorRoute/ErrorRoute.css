@@ -1,0 +1,27 @@
+.error-route {
+  text-align: center;
+  padding: 50px;
+}
+
+.error-title {
+  font-size: 2em;
+  color: crimson;
+}
+
+.error-message {
+  font-size: 1.2em;
+}
+
+.error-button {
+  padding: 10px 20px;
+  font-size: 1em;
+  color: white;
+  background-color: #008080;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.error-button:hover {
+  background-color: #006666;
+}
